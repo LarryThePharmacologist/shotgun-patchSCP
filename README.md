@@ -11,6 +11,7 @@ This repository contains the analysis code used in
 - SynGO Analyses (Zip file)
 - Example output plots (Zip file)
 - R scripts for figure generation (Figures 2–6 and S2-3)
+  
 | Figure (paper) | Script file name |
 |----------------|------------------|
 | Figure 2 – Protein overlap (Venn) | `Figure 2 Venn Diagram.R` |
@@ -28,6 +29,10 @@ Raw and processed mass spectrometry data can be found using the MassIVE dataset 
 ## Usage
 Note that all scripts require report.pg_matrix.tsv and SynGO analysis files. If raw spectra files and/or SynGO outputs are being analyzed differently, modify names in the metadata file. Then open R and run the scripts directly (e.g., `source("Figure2_Venn_Diagram.R")`). Scripts are annotated with input file paths and parameters. Script for Figure 5 must be run first. 
 
+## Citation
+If you use these scripts, please cite:
+Rodriguez et al., *Biorxiv*, 2025 (DOI: https://doi.org/10.1101/2025.09.15.675920).
+
 ## Dependencies
 All analyses were performed in **R Version 4.3.3** with the following packages:
 - `readr`
@@ -42,7 +47,11 @@ All analyses were performed in **R Version 4.3.3** with the following packages:
 - `ComplexHeatmap`
 - `circlize`
 - `RColorBrewer`
+  
+To install all dependencies in one step:  
 
-## Citation
-If you use these scripts, please cite:
-Rodriguez et al., *Biorxiv*, 2025 (DOI: https://doi.org/10.1101/2025.09.15.675920).
+```r
+install.packages(c("readr","readxl","dplyr","stringr","tidyr",
+                   "lubridate","ggplot2","eulerr","pheatmap","RColorBrewer"))
+BiocManager::install(c("ComplexHeatmap","circlize"))
+
