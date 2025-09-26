@@ -1,0 +1,76 @@
+HGNC symbol,Family name,HGNC name
+HTR1A,5-Hydroxytryptamine receptors,5-hydroxytryptamine receptor 1A
+HTR1B,5-Hydroxytryptamine receptors,5-hydroxytryptamine receptor 1B
+HTR1D,5-Hydroxytryptamine receptors,5-hydroxytryptamine receptor 1D
+HTR2A,5-Hydroxytryptamine receptors,5-hydroxytryptamine receptor 2A
+HTR4,5-Hydroxytryptamine receptors,5-hydroxytryptamine receptor 4
+HTR5A,5-Hydroxytryptamine receptors,5-hydroxytryptamine receptor 5A
+HTR7,5-Hydroxytryptamine receptors,5-hydroxytryptamine receptor 7
+CHRM1,Acetylcholine receptors (muscarinic),cholinergic receptor muscarinic 1
+CHRM2,Acetylcholine receptors (muscarinic),cholinergic receptor muscarinic 2
+CHRM3,Acetylcholine receptors (muscarinic),cholinergic receptor muscarinic 3
+CHRM4,Acetylcholine receptors (muscarinic),cholinergic receptor muscarinic 4
+ADORA1,Adenosine receptors,adenosine A1 receptor
+ADORA2A,Adenosine receptors,adenosine A2a receptor
+ADORA2B,Adenosine receptors,adenosine A2b receptor
+ADORA3,Adenosine receptors,adenosine A3 receptor
+ADGRA1,Adhesion Class GPCRs,adhesion G protein-coupled receptor A1
+ADGRB1,Adhesion Class GPCRs,adhesion G protein-coupled receptor B1
+ADGRB2,Adhesion Class GPCRs,adhesion G protein-coupled receptor B2
+ADGRB3,Adhesion Class GPCRs,adhesion G protein-coupled receptor B3
+CELSR3,Adhesion Class GPCRs,cadherin EGF LAG seven-pass G-type receptor 3
+ADGRL1,Adhesion Class GPCRs,adhesion G protein-coupled receptor L1
+ADGRL2,Adhesion Class GPCRs,adhesion G protein-coupled receptor L2
+ADGRL3,Adhesion Class GPCRs,adhesion G protein-coupled receptor L3
+ADRA1A,Adrenoceptors,adrenoceptor alpha 1A
+ADRA2A,Adrenoceptors,adrenoceptor alpha 2A
+ADRA2C,Adrenoceptors,adrenoceptor alpha 2C
+ADRB1,Adrenoceptors,adrenoceptor beta 1
+ADRB2,Adrenoceptors,adrenoceptor beta 2
+CALCRL,Calcitonin receptors,calcitonin receptor like receptor
+CASR,Calcium-sensing receptor,calcium sensing receptor
+CNR1,Cannabinoid receptors,cannabinoid receptor 1
+CNR2,Cannabinoid receptors,cannabinoid receptor 2
+GPR151,Class A Orphans,G protein-coupled receptor 151
+GPR158,Class C Orphans,G protein-coupled receptor 158
+FZD1,Class Frizzled GPCRs,frizzled class receptor 1
+FZD3,Class Frizzled GPCRs,frizzled class receptor 3
+FZD4,Class Frizzled GPCRs,frizzled class receptor 4
+FZD5,Class Frizzled GPCRs,frizzled class receptor 5
+FZD8,Class Frizzled GPCRs,frizzled class receptor 8
+FZD9,Class Frizzled GPCRs,frizzled class receptor 9
+SMO,Class Frizzled GPCRs,"smoothened, frizzled class receptor"
+CRHR1,Corticotropin-releasing factor receptors,corticotropin releasing hormone receptor 1
+DRD1,Dopamine receptors,dopamine receptor D1
+DRD2,Dopamine receptors,dopamine receptor D2
+DRD3,Dopamine receptors,dopamine receptor D3
+DRD4,Dopamine receptors,dopamine receptor D4
+DRD5,Dopamine receptors,dopamine receptor D5
+GABBR1,GABAB receptors,gamma-aminobutyric acid type B receptor subunit 1
+GABBR2,GABAB receptors,gamma-aminobutyric acid type B receptor subunit 2
+GHSR,Ghrelin receptor,growth hormone secretagogue receptor
+GPER1,G protein-coupled estrogen receptor,G protein-coupled estrogen receptor 1
+LPAR1,Lysophospholipid (LPA) receptors,lysophosphatidic acid receptor 1
+LPAR2,Lysophospholipid (LPA) receptors,lysophosphatidic acid receptor 2
+S1PR1,Lysophospholipid (S1P) receptors,sphingosine-1-phosphate receptor 1
+S1PR2,Lysophospholipid (S1P) receptors,sphingosine-1-phosphate receptor 2
+S1PR3,Lysophospholipid (S1P) receptors,sphingosine-1-phosphate receptor 3
+S1PR4,Lysophospholipid (S1P) receptors,sphingosine-1-phosphate receptor 4
+S1PR5,Lysophospholipid (S1P) receptors,sphingosine-1-phosphate receptor 5
+GRM1,Metabotropic glutamate receptors,glutamate metabotropic receptor 1
+GRM2,Metabotropic glutamate receptors,glutamate metabotropic receptor 2
+GRM3,Metabotropic glutamate receptors,glutamate metabotropic receptor 3
+GRM4,Metabotropic glutamate receptors,glutamate metabotropic receptor 4
+GRM5,Metabotropic glutamate receptors,glutamate metabotropic receptor 5
+GRM7,Metabotropic glutamate receptors,glutamate metabotropic receptor 7
+GRM8,Metabotropic glutamate receptors,glutamate metabotropic receptor 8
+NPY1R,Neuropeptide Y receptors,neuropeptide Y receptor Y1
+NPY2R,Neuropeptide Y receptors,neuropeptide Y receptor Y2
+NPY5R,Neuropeptide Y receptors,neuropeptide Y receptor Y5
+OPRD1,Opioid receptors,opioid receptor delta 1
+OPRK1,Opioid receptors,opioid receptor kappa 1
+OPRM1,Opioid receptors,opioid receptor mu 1
+P2RY1,P2Y receptors,purinergic receptor P2Y1
+P2RY2,P2Y receptors,purinergic receptor P2Y2
+P2RY4,P2Y receptors,pyrimidinergic receptor P2Y4
+TACR1,Tachykinin receptors,tachykinin receptor 1
